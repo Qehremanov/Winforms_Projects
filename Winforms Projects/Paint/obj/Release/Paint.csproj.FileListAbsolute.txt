@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\New folder\Paint\bin\Release\Paint.exe.config
+C:\Users\Administrator\Desktop\New folder\Paint\bin\Release\Paint.exe
+C:\Users\Administrator\Desktop\New folder\Paint\bin\Release\Paint.pdb
+C:\Users\Administrator\Desktop\New folder\Paint\obj\Release\Paint.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\Paint\obj\Release\Paint.Form1.resources
+C:\Users\Administrator\Desktop\New folder\Paint\obj\Release\Paint.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\Paint\obj\Release\Paint.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\Paint\obj\Release\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\Paint\obj\Release\Paint.exe
+C:\Users\Administrator\Desktop\New folder\Paint\obj\Release\Paint.pdb
+C:\Users\Administrator\Desktop\New folder\Paint\bin\Release\Paint.exe.manifest
+C:\Users\Administrator\Desktop\New folder\Paint\bin\Release\Paint.application
+C:\Users\Administrator\Desktop\New folder\Paint\obj\Release\Paint.exe.manifest
+C:\Users\Administrator\Desktop\New folder\Paint\obj\Release\Paint.application

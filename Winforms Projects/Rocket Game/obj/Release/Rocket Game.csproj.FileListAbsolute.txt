@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Release\Rocket Game.exe.config
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Release\Rocket Game.exe
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Release\Rocket Game.pdb
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Release\Rocket_Game.Form1.resources
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Release\Rocket_Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Release\Rocket Game.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Release\Rocket Game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Release\Rocket Game.exe
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Release\Rocket Game.pdb
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Release\Rocket Game.exe.manifest
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Release\Rocket Game.application
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Release\Rocket Game.exe.manifest
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Release\Rocket Game.application
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Release\Rocket Game.csprojAssemblyReference.cache

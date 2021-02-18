@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Release\PinPon.exe.config
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Release\PinPon.exe
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Release\PinPon.pdb
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Release\PinPong.Form1.resources
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Release\PinPon.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Release\PinPong.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Release\PinPong.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Release\PinPon.exe
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Release\PinPon.pdb
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Release\PinPon.exe.manifest
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Release\PinPon.application
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Release\PinPon.exe.manifest
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Release\PinPon.application

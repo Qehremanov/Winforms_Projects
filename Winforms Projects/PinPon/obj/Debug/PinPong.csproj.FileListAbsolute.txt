@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Debug\PinPon.exe.config
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Debug\PinPon.exe
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Debug\PinPon.pdb
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Debug\PinPong.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Debug\PinPong.Form1.resources
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Debug\PinPon.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Debug\PinPong.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Debug\PinPong.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Debug\PinPon.exe
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Debug\PinPon.pdb
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Debug\PinPon.exe.manifest
+C:\Users\Administrator\Desktop\New folder\PinPon\bin\Debug\PinPon.application
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Debug\PinPon.exe.manifest
+C:\Users\Administrator\Desktop\New folder\PinPon\obj\Debug\PinPon.application

@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Debug\Rocket Game.exe.config
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Debug\Rocket Game.exe
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Debug\Rocket Game.pdb
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Debug\Rocket_Game.Form1.resources
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Debug\Rocket_Game.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Debug\Rocket Game.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Debug\Rocket Game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Debug\Rocket Game.exe
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Debug\Rocket Game.pdb
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Debug\Rocket Game.exe.manifest
+C:\Users\Administrator\Desktop\New folder\Rocket Game\bin\Debug\Rocket Game.application
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Debug\Rocket Game.exe.manifest
+C:\Users\Administrator\Desktop\New folder\Rocket Game\obj\Debug\Rocket Game.application
